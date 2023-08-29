@@ -1,0 +1,23 @@
+//this file is by João Vítor
+
+/*crie um programa que preça ao usuário digitar uma frase.
+teste se a frase é um palindromo
+e retorno com console.log verdadeiro ou falso.
+
+function isPalindrome(str) 
+    str = str.replace(/\s/g, '').toLowerCase();
+
+    const reversedStr = str.split('').reverse().join('');
+    return str === reversedStr;
+
+const userPhrase = prompt("Digite uma frase:");
+
+const result = isPalindrome(userPhrase);
+
+if (result) 
+    console.log("A frase é um palíndromo.");
+  else 
+    console.log("A frase não é um palíndromo.");
+
+  */
+  Usei formas diferentes que encontrei para fazer os códigos.
